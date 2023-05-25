@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashish-github05/Ashish.github.io](https://github.com/Ashish-github05/Ashish.github.io)
+- 👨‍💻 All of my projects are available at [https://ashish-github05.github.io/Ashish.github.io/](https://github.com/Ashish-github05/Ashish.github.io)
 
 - 📫 How to reach me **ak946417@gmail.com**
 
