@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.softprodigy.com%2Fwp-content%2Fuploads%2F2020%2F10%2F327-2.gif&tbnid=cK2J24DduTfBnM&vet=10CFYQMyiDAWoXChMIuI_Q3-OQ_wIVAAAAAB0AAAAAEAM..i&imgrefurl=https%3A%2F%2Fsoftprodigy.com%2Fimportant-considerations-companies-make-before-hiring-react-js-developers%2F&docid=j3uha54wcR7APM&w=1200&h=628&q=animated%20coding%20gif&ved=0CFYQMyiDAWoXChMIuI_Q3-OQ_wIVAAAAAB0AAAAAEAM">
-
+<img align="right" alt="coding" width="400px" src=
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-github05&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-github05" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
