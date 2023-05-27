@@ -15,7 +15,7 @@
   🌱  &nbsp;I'm on track for learning more about Data Structures and Algorithm, MERN Stack Development.\
   👨‍💻  &nbsp;I am practising on [LeetCode](https://leetcode.com/Ashish__kr/)\
   ✉️  &nbsp;Get in touch with me via email at ak946417@gmail.com.\
-  ⚡  Fun fact **I am Quick Learner**.
+  ⚡  Fact **I am Quick Learner & Active Listener**.
 
 
 
