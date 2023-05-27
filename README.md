@@ -7,13 +7,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-github05&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-github05" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+<!-- - 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://ashish-github05.github.io/Ashish.github.io/](https://github.com/Ashish-github05/Ashish.github.io)
 
 - 📫 How to reach me **ak946417@gmail.com**
 
-- ⚡ Fun fact **I am Quick Learner**
+- ⚡ Fun fact **I am Quick Learner** -->
+
+
+<b>*About Me*:</b> 
+
+  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
+  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
+  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
+  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
+  ✉️ &nbsp;Get in touch with me via email at samirpaulb@gmail.com.
+
+
+
+
+ <b> </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
