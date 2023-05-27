@@ -1,9 +1,9 @@
 ![logo](https://github.com/Ashish-github05/Ashish-github05/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
-<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align ="right" alt="coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-github05&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-github05" /> </p>
 
@@ -18,11 +18,12 @@
 
 <b>*About Me*:</b> 
 
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at samirpaulb@gmail.com.
+  🎓  &nbsp;I'm currently studying MCA at Vellore Institute of Technology, Bhopal.\
+  💡   &nbsp;Some technologies I enjoy working with include JAVA, MySQL, PHP,JS, Reactjs, NodeJS, MongoDB.\
+  👨‍💻  All of my projects are available at [https://ashish-github05.github.io/Ashish.github.io/](https://github.com/Ashish-github05/Ashish.github.io)\
+  🌱  &nbsp;I'm on track for learning more about Data Structures and Algorithm, MERN Stack Development.\
+  👨‍💻  &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1)\
+  ✉️  &nbsp;Get in touch with me via email at ak946417@gmail.com.
 
 
 
